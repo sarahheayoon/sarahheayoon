@@ -7,15 +7,15 @@
 - Curious, data-driven problem solver! 💫
 - Love visualizing data for exploratory analysis 🔮
 - Born in Korea, raised in China, Studied abroad in the U.K, bit of a globetrotter 🌎
-- Interested in using data to create innovative soulutions 💡
-- Outside of coding I love making music and good laughs with friends 💿
+- Passionate about using data to create innovative soulutions and meaningful social impact 💡
+- Outside of coding, I love making music and good laughs with friends 💿
 
 ### What I'm up to
 
-- Currently researching on topological data analysis on high-dimensional data structures for thesis
+- Currently researching about topological data analysis (TDA) methods on high-dimensional data structures!
 - Working on a project to evaluate spotify playlists based on k-means clustering and TDA - Stay tuned! 😉
-- Self-teaching how to code with python language to do ML
-- Transforming my GitHub space to be more involved with the DS community! :-)
+- Reviewing how to code with python to do ML (fluency to go between different lingo!)
+- Transforming my GitHub space to be more involved with the Github DS community! :-)
 
 ### Tools I've been using lately
 - R (tidyverse, tidymodels, dplyr, lubridate)
