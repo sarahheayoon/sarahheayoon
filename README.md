@@ -15,7 +15,7 @@
 - Currently researching on topological data analysis on high-dimensional data structures for thesis
 - Working on a project to evaluate spotify playlists based on k-means clustering and TDA - Stay tuned! 😉
 - Self-teaching how to code with python language to do ML
-- Transforming my GitHub page to become more involved with the DS community! :-)
+- Transforming my GitHub space to be more involved with the DS community! :-)
 
 ### Tools I've been using lately
 - R (tidyverse, tidymodels, dplyr, lubridate)
