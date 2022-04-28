@@ -7,7 +7,7 @@
 - Curious, data-driven problem solver! 💫
 - Love visualizing data for exploratory analysis 🔮
 - Born in Korea, raised in China, studied abroad in the U.K, a bit of a globetrotter 🌎
-- Passionate about using data to create innovative soulutions and meaningful social impact 💡
+- Passionate about using data to create innovative solutions and meaningful social impact 💡
 - Outside of coding, I love making music and good laughs with friends 👾
 
 ### What I'm up to
