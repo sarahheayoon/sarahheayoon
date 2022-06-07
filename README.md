@@ -31,5 +31,5 @@
 [LinkedIn](https://www.linkedin.com/in/sarahheayoon/) [Youtube](https://www.youtube.com/watch?v=HOhMqAUpU2U&ab_channel=twntysvwn)
 
 <p>
-   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/sarahheayoon/)
+   <object alt="https://www.linkedin.com/in/sarahheayoon/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
