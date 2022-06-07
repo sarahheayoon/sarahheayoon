@@ -19,8 +19,8 @@
 
 ### Tools I've been using lately
 <p>
-- https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white (tidyverse, wordcloud2)
-- https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white (pandas, numpy, scikit-learn)
+   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### You can also find me at 👇🏼
