@@ -7,7 +7,7 @@
 
 - Curious, data-driven problem solver! 💫
 - Love visualizing data for exploratory analysis 🔮
-- Born in Korea, raised in China, studied abroad in the U.K, a bit of a globetrotter 🌎
+- Born in Korea, raised in China, studied in the U.K, a bit of a globetrotter 🌎
 - Passionate about using data to create innovative solutions and meaningful social impact 💡
 - Outside of coding, I love making music and good laughs with friends 👾
 
@@ -31,6 +31,5 @@
 [LinkedIn](https://www.linkedin.com/in/sarahheayoon/) [Youtube](https://www.youtube.com/watch?v=HOhMqAUpU2U&ab_channel=twntysvwn)
 
 <p>
-   <src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/sarahheayoon/)
 </p>
-[LinkedIn](https://www.linkedin.com/in/sarahheayoon/)
