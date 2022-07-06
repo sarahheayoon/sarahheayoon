@@ -12,9 +12,8 @@
 
 ### What I'm up to
 
-- Currently writing a thesis about topological modeling of high-dimensional data structures!
+- Received a fellowship award to continue the research on Topological Data Analysis (TDA)
 - Working on a project to analyze and predict user ratings in Netflix to improve recommendation algorithms based on Bayesian inference - stay tuned! 😉
-- Transforming my GitHub space to be more involved with the Github DS community! :-)
 
 ### The arsenal
 <p>
