@@ -8,12 +8,13 @@
 - Love visualizing data for exploratory analysis 🔮
 - Born in Korea, raised in China, studied in the U.K, a bit of a globetrotter 🌎
 - Passionate about using data to create innovative solutions and meaningful social impact 💡
-- Outside of coding, I love making music and good laughs with friends 👾
+- Outside of coding, I love making music and good laughs with friends (:
 
 ### What I'm up to
 
-- Received a fellowship award to continue the research on Topological Data Analysis (TDA)
-- Working on a project to analyze and predict user ratings in Netflix to improve recommendation algorithms based on Bayesian inference - stay tuned! 😉
+- Received a fellowship award from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
+- Received an offer to be a Data Science Intern at a crypto start-up (@the TIE)!! - very excited to provide more insights on the crypo market
+- Refining some old projects.. We love coming back to where we all started (:  
 
 ### The arsenal
 <p>
