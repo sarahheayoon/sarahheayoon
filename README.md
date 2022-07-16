@@ -12,7 +12,7 @@
 
 ### What I'm up to
 
-- Received a fellowship award from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
+- Received Kenneth Cooke fellowship grant from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
 - Received an offer to be a Data Science Intern at a crypto start-up (@the TIE)!! - very excited to provide more insights on the crypo market
 - Refining some old projects.. We love coming back to where it all began - stay tuned! 😉
 
