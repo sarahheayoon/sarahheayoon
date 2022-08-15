@@ -4,18 +4,16 @@
 
 ### Me in a nutshell
 
-💫 Curious, data-driven problem solver! 
-🔮 Love visualizing data for exploratory analysis
-🌎 Born in Korea, raised in China, studied in the U.K, a bit of a globetrotter
-💡 Passionate about using data to create innovative solutions and meaningful social impact 
-👾 Outside of coding, I love making music and good laughs with friends 
+- 💫 Curious, data-driven problem solver! 
+- 🔮 Love visualizing data for exploratory analysis
+- 🌎 Born in Korea, raised in China, studied in the U.K, a bit of a globetrotter
+- 💡 Passionate about using data to create innovative solutions and meaningful social impact 
+- 👾 Outside of coding, I love making music and good laughs with friends 
 
 ### What I'm up to
 
 - Received Kenneth Cooke fellowship grant from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
-- Received an offer to be a Data Science Intern at a crypto start-up (@the TIE)!! - very excited to provide more insights on the crypo market
-- Refining some old projects.. We love coming back to where it all began - stay tuned!
-
+- Currently generating lots of network graphs and analysis in Twitter Space as a Data Scientist Intern at a crypto start-up (@the TIE)!!
 
 ### Previous Project Descriptions:
 #### [Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) 📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
