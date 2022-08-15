@@ -16,6 +16,22 @@
 - Received an offer to be a Data Science Intern at a crypto start-up (@the TIE)!! - very excited to provide more insights on the crypo market
 - Refining some old projects.. We love coming back to where it all began - stay tuned! 😉
 
+### Previous Project Descriptions:
+#### Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021)
+- Created a Bayesian inference model to predict individual users’ preference on film based on their viewership and rating history
+- Cleaned large datasets containing Netflix & IMDB movie ratings (2M movies) and user behaviors (143K users) in R to visualize viewership and rating distributions for the given sample of users
+
+#### NLP Project: Stock Prediction Using Twitter Sentiment Analysis (Sep 2021 – Dec 2021)
+- Trained machine learning models (CART, Random Forest, SVM) in R to predict stock performance with Twitter sentiment analysis, which resulted in 52% accuracy 
+- Retrieved millions of tweets using Python and Twitter API, cleaned text data, generated sentiment scores based on augmented dictionary search
+- Created a data processing pipeline and word cloud in R to visualize Twitter sentiment and stock trends of companies
+
+#### Multiple Regression Model on Renewable Energy (Sep 2021 – Dec 2021)
+- Built a multiple regression model to predict state’s political affiliations by the type of renewable energy produced by cleaning 2020 election results by state, state energy consumption levels, renewable energy production levels by energy types
+
+#### Optimization Model for Human Resource Scheduling Problem (Aug 2019 – Dec 2019)
+•	Increased staffing efficiency by 30% by building an optimization model which was adopted by the executive team of the Mavenlink Inc
+
 ### The arsenal
 <p>
    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
