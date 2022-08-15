@@ -1,8 +1,8 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# Hey I'm Sarah, an aspiring data scientist 🚀
+# Hey I'm Sarah,
 
-### Me in a nutshell
+### Me in a nutshell 🚀
 
 - 💫 Curious, data-driven problem solver! 
 - 🔮 Love visualizing data for exploratory analysis
