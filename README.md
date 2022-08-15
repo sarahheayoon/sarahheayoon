@@ -7,7 +7,7 @@ I go into data science projects with an entrepreneurial and user-driven mindset.
 
 I have experience working in high-growth fintech startups, digital marketing, and client management. Above all, I'm excited about disruptive ideas that can create global change and elevate quality of life.
 
-When I am not coding I like watching documentaries about nature. I also make music. I am currently working on a personal project to build and design a website.
+When I am not coding I like watching documentaries about nature. I also make music. I am currently working on a personal project to learn Deep Reinforcement Learning.
 
 ### What I'm up to
 
