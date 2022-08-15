@@ -17,16 +17,16 @@
 - Refining some old projects.. We love coming back to where it all began - stay tuned! 😉
 
 ### Previous Project Descriptions:
-#### Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) [📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
+#### [Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) 📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
 - Created a Bayesian inference model to predict individual users’ preference on film based on their viewership and rating history
 - Cleaned large datasets containing Netflix & IMDB movie ratings (2M movies) and user behaviors (143K users) in R to visualize viewership and rating distributions for the given sample of users
 
-#### NLP Project: Stock Prediction Using Twitter Sentiment Analysis (Sep 2021 – Dec 2021) [📑](https://github.com/sarahheayoon/NLP-Twitter-Sentiment-Analysis)
+#### [NLP Project: Stock Prediction Using Twitter Sentiment Analysis (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/NLP-Twitter-Sentiment-Analysis)
 - Trained machine learning models (CART, Random Forest, SVM) in R to predict stock performance with Twitter sentiment analysis, which resulted in 52% accuracy 
 - Retrieved millions of tweets using Python and Twitter API, cleaned text data, generated sentiment scores based on augmented dictionary search
 - Created a data processing pipeline and word cloud in R to visualize Twitter sentiment and stock trends of companies
 
-#### Multiple Regression Model on Renewable Energy (Sep 2021 – Dec 2021) [📑](https://github.com/sarahheayoon/Renewable-Energy-State-GDP-Political-Affiliation)
+#### [Multiple Regression Model on Renewable Energy (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/Renewable-Energy-State-GDP-Political-Affiliation)
 - Built a multiple regression model to predict state’s political affiliations by the type of renewable energy produced by cleaning 2020 election results by state, state energy consumption levels, renewable energy production levels by energy types
 
 #### Optimization Model for Human Resource Scheduling Problem (Aug 2019 – Dec 2019)
