@@ -1,14 +1,14 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# Hey I'm Sarah,
+# Hey, I'm Sarah
 
-### Me in a nutshell 🚀
+My interest in data science began in my last year of college when I found so much joy in visualizing data. I am a visual learner and it is so much more intuitive and exciting to provide insights with all kinds of graphs. I am curious about many differnt things. I loves big ideas and making them happen. 🚀 
 
-- 💫 Curious, data-driven problem solver! 
-- 🔮 Love visualizing data for exploratory analysis
-- 🌎 Born in Korea, raised in China, studied in the U.K, a bit of a globetrotter
-- 💡 Passionate about using data to create innovative solutions and meaningful social impact 
-- 👾 Outside of coding, I love making music and good laughs with friends 
+I go into data science projects with an entrepreneurial and user-driven mindset, writing code that solves real world problems. I'm a project management enthusiast with a passion for data-driven innovative solutions. Strongly believe that no problem is too hard if you break it down into smaller pieces.
+
+I have experience working in high-growth fintech startups, digital marketing, and client management. Above all, I'm excited about disruptive ideas that can create global change and elevate quality of life.
+
+When I am not coding I like watching documentaries about nature. I also make music and enjoy good laughs with friends. 
 
 ### What I'm up to
 
