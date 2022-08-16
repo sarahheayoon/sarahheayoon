@@ -3,16 +3,17 @@
 # Hey, I'm Sarah
 
 My interest in data science began in my last two years of college when I found my passion in visualizing data. I am a visual learner and it is so much more intuitive and exciting to provide insights with all kinds of graphs. I am curious about many differnt things. I loves big ideas and making them happen. 
-I go into data science projects with an entrepreneurial and user-driven mindset. I'm a project management enthusiast with a passion for data-driven innovative solutions. Strongly believe that no problem is too hard if you break it down into smaller pieces. 🚀
+I'm a project management enthusiast with a passion for data-driven innovative solutions. I go into data science projects with an entrepreneurial and user-driven mindset. I strongly believe no problem is too hard if we break it down into smaller pieces. 🚀
 
 I have experience working in high-growth fintech startups, digital marketing, and client management. Above all, I'm excited about disruptive ideas that can create global change and elevate quality of life.
 
-When I am not coding I like watching documentaries about nature. I also make music. I am currently working on a personal project to learn Deep Reinforcement Learning.
+When I am not coding I like watching documentaries about nature. I also make music.
 
 ### What I'm up to
 
 - Received Kenneth Cooke fellowship grant from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
-- Currently generating lots of network graphs and analysis in Twitter Space as a Data Scientist Intern at a crypto start-up (@the TIE)!!
+- Currently generating lots of network graphs and analysis as a Data Scientist Intern at a crypto start-up (@the TIE)!!
+- Found a new interest in Deep Reinforcement Learning.
 
 ### Previous Project Descriptions:
 #### [Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) 📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
