@@ -21,15 +21,15 @@ When I am not coding I like watching documentaries about nature. I also make mus
 - Cleaned large datasets containing Netflix & IMDB movie ratings (2M movies) and user behaviors (143K users) in R to visualize viewership and rating distributions for the given sample of users
 
 #### [NLP Project: Stock Prediction Using Twitter Sentiment Analysis (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/NLP-Twitter-Sentiment-Analysis)
-- Trained supervised machine learning models (CART, Random Forest, SVM) in R to predict stock performance with Twitter sentiment analysis with 52% accuracy 
+- Trained supervised machine learning models (CART, Random Forest, SVM) in R to predict stock performance with Twitter sentiment analysis with 55% accuracy 
 - Retrieved millions of tweets using Python and Twitter API, cleaned text data, generated sentiment scores based on augmented dictionary search
 - Created a data processing pipeline and word cloud in R to visualize Twitter sentiment and stock trends of companies
 
 #### [Multiple Regression Model on Renewable Energy (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/Renewable-Energy-State-GDP-Political-Affiliation)
-- Built a multiple regression model to predict state’s political affiliations by the type of renewable energy produced by cleaning 2020 election results by state, state energy consumption levels, renewable energy production levels by energy types
+- Built a multiple regression model to predict broader social and economic outcomes in a state by state energy consumption levels and renewable energy production levels by energy types
 
 #### Optimization Model for Human Resource Scheduling Problem (Aug 2019 – Dec 2019)
-•	Increased staffing efficiency by 30% by building an optimization model which was adopted by the executive team of the Mavenlink Inc
+•	Increased staffing efficiency by 30% by building an optimization model that was adopted by the executive team of the Mavenlink Inc
 
 ### The arsenal
 <p>
