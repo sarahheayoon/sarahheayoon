@@ -25,7 +25,7 @@ When I am not coding I like watching documentaries about nature. I also make mus
 - Retrieved millions of tweets using Python and Twitter API, cleaned text data, generated sentiment scores based on augmented dictionary search
 - Created a data processing pipeline and word cloud in R to visualize Twitter sentiment and stock trends of companies
 
-#### [Multiple Regression Model on Renewable Energy (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/Renewable-Energy-State-GDP-Political-Affiliation)
+#### [Multivariate Linear Regression Model on Renewable Energy (Sep 2021 – Dec 2021) 📑](https://github.com/sarahheayoon/Renewable-Energy-State-GDP-Political-Affiliation)
 - Built a multiple regression model to predict broader social and economic outcomes in a state by state energy consumption levels and renewable energy production levels by energy types
 
 #### Optimization Model for Human Resource Scheduling Problem (Aug 2019 – Dec 2019)
