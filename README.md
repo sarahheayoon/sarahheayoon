@@ -2,7 +2,7 @@
 
 # Hey, I'm Sarah
 
-My interest in data science began in my last two years of college when I found my passion in visualizing data. I am a visual learner and it is so much more intuitive and exciting to provide insights with all kinds of graphs. I am curious about many differnt things. I loves big ideas and making them happen. 
+My interest in data science began in my last two years of college when I found my passion in visualizing data. I am a visual learner and it is so much more intuitive and exciting to provide insights with all kinds of graphs. I am curious about many different things. I loves big ideas and making them happen. 
 I'm a project management enthusiast with a passion for data-driven innovative solutions. I go into data science projects with an entrepreneurial and user-driven mindset. I strongly believe no problem is too hard if we break it down into smaller pieces. 🚀
 
 I have experience working in high-growth fintech startups, digital marketing, and client management. Above all, I'm excited about disruptive ideas that can create global change and elevate quality of life.
