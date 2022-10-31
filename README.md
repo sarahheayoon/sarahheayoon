@@ -9,12 +9,6 @@ I have experience working in high-growth fintech startups, digital marketing, an
 
 When I am not coding I like watching documentaries about nature. I also make music.
 
-### What I'm up to
-
-- Received Kenneth Cooke fellowship grant from Pomona College to continue doing some more research on Topological Data Analysis (TDA). 
-- Currently generating lots of network graphs and analysis as a Data Scientist Intern at a crypto start-up (@the TIE)!!
-- Found a new interest in Deep Reinforcement Learning.
-
 ### Previous Project Descriptions:
 #### [Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) 📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
 - Predicted individual users’ preferences on film based on their viewership and rating history in R using Bayesian Inference model 
