@@ -1,13 +1,13 @@
 <link href="profile.css" rel="stylesheet"></link>
 
-# Hey, I'm Sarah
+# Hey, I'm Sarah, look at how smart I am: 
 
 My interest in data science began in my last two years of college when I found my passion in visualizing data. I am a visual learner and it is so much more intuitive and exciting to provide insights with all kinds of graphs. I am curious about many different things. I love big ideas and making them happen. 
 I'm a project management enthusiast with a passion for data-driven innovative solutions. I go into data science projects with an entrepreneurial and user-driven mindset. I strongly believe no problem is too hard if we break it down into smaller pieces. 🚀
 
 I have experience working in high-growth tech startups, digital marketing, and client management. Above all, I'm excited about disruptive ideas that can create global change and elevate quality of life.
 
-### Previous Project Descriptions:
+### Previous Project Descriptions: 
 #### [Bayesian Bayesian Inference Model on Movie Recommendation System (Mar 2021 – May 2021) 📑](https://github.com/sarahheayoon/Netflix-IMDB-User-Recommendation)
 - Predicted individual users’ preferences on film based on their viewership and rating history in R using Bayesian Inference model 
 - Cleaned large datasets containing Netflix & IMDB movie ratings (2M movies) and user behaviors (143K users) in R to visualize viewership and rating distributions for the given sample of users
@@ -23,7 +23,7 @@ I have experience working in high-growth tech startups, digital marketing, and c
 #### Optimization Model for Human Resource Scheduling Problem (Aug 2019 – Dec 2019)
 •	Increased staffing efficiency by 30% by building an optimization model that was adopted by the executive team of the Mavenlink Inc
 
-### The arsenal
+### The arsenal. Dang, look how loaded I am. I learned pandas because I thought it was real Pandas.
 <p>
    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
