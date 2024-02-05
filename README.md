@@ -31,6 +31,7 @@ I have experience working in high-growth tech startups, digital marketing, and c
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+   frogs𓆏
 </p>
 
 ### You can also find me 
