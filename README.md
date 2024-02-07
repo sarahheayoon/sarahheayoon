@@ -2,7 +2,7 @@
 
 ### Hey! I'm Sarah
 - I do data at a crypto start-up, which means I work with web3/blockchain data!
-- I have a background in mathematics & politics 
+- I have a background in mathematics & political science
 - Outside of coding, I like to make music
 
 ### You can find me here :)
