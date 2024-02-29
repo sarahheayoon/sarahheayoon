@@ -1,7 +1,8 @@
 <link href="profile.css" rel="stylesheet"></link>
 
 ### Hey! I'm Sarah
-- I do data at a crypto start-up, which means I work with web3/blockchain data!
+- I do data <a href="https://www.thetie.io"> @The Tie
+- I work with web3/blockchain data!
 - I have a background in mathematics & political science
 - Outside of coding, I like to make music
 
