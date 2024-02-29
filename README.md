@@ -2,7 +2,6 @@
 
 ### Hey! I'm Sarah
 - I do data <a href="https://www.thetie.io"> @The Tie
-- I work with web3/blockchain data!
 - I have a background in mathematics & political science
 - Outside of coding, I like to make music
 
