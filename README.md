@@ -1,7 +1,6 @@
 <link href="profile.css" rel="stylesheet"></link>
 
 ### Hey! I'm Sarah
-- I do data <a href="https://www.thetie.io"> @The Tie
 - I have a background in mathematics & political science
 - Outside of coding, I like to make music
 
